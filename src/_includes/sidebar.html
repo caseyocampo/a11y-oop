@@ -11,7 +11,7 @@
         {% endfor %}
       </ul>
     </details>
-    <details open>
+    <details id="basic-details" open>
       <summary>Basic Accessibility Tips</summary>
       <ul>
         {% for page in collections.basic %}
@@ -21,7 +21,7 @@
         {% endfor %}
       </ul>
     </details>
-    <details open>
+    <details id="advanced-details" open>
       <summary>Advanced Accessibility Tips</summary>
       <ul>
         {% for page in collections.advanced %}
@@ -31,6 +31,11 @@
         {% endfor %}
       </ul>
     </details>
-    <button>Donate</button>
+    <a
+      class="rounded-md border border-rose-700 bg-rose-300 p-4 my-4 text-center hover:bg-rose-400"
+      href="/"
+    >
+      Donate
+    </a>
   </div>
 </aside>
