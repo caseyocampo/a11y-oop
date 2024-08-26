@@ -12,6 +12,10 @@ body {
   font-family: system-ui, "Arial", sans-serif;
 }
 
+body {
+  /* background: #eee; */
+}
+
 h1 {
   @apply text-4xl py-4 font-bold;
 }
@@ -44,8 +48,14 @@ aside {
   background: #eee;
   border-right: 1px solid #ccc;
   padding: 1em;
-  max-height: calc(100vh - 70px);
+  max-height: calc(100vh - 60px);
   overflow-y: scroll;
+  top: 0;
+}
+
+main {
+  background: #eee;
+  padding: 1em;
 }
 
 details {
@@ -68,13 +78,6 @@ details[open] {
 
 details[open] summary {
   border-bottom: 1px solid #aaa;
-}
-
-main {
-  background: #eee;
-  padding: 1em;
-  max-height: calc(100vh - 70px);
-  overflow-y: scroll;
 }
 
 ul {
