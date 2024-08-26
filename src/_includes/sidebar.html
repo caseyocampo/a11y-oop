@@ -4,10 +4,11 @@
     <details>
       <summary>A11yoop Project</summary>
       <ul>
-        <li><a href="/">About A11yoop</a></li>
-        <li><a href="/">Suggest an accessibility tip</a></li>
-        <li><a href="/">Donate</a></li>
-        <li><a href="/">Contact</a></li>
+        {% for page in collections.main %}
+        <li>
+          <a href="{{ page.url }}">{{ page.data.title }}</a>
+        </li>
+        {% endfor %}
       </ul>
     </details>
     <details open>
