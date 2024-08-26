@@ -12,6 +12,10 @@ Step 3 - Build production environment
 
 `npm run build`
 
+# Remove remote origin
+
+`git remote remove origin`
+
 ## 100's on all Lighthouse categories
 
 ![lighthouse scores](/src/assets/img/lighthouse.png)

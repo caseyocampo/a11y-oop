@@ -1,0 +1,35 @@
+<aside class="col-span-1">
+  <h2>Table of Contents</h2>
+  <div class="flex flex-col">
+    <details>
+      <summary>A11yoop Project</summary>
+      <ul>
+        <li><a href="/">About A11yoop</a></li>
+        <li><a href="/">Suggest an accessibility tip</a></li>
+        <li><a href="/">Donate</a></li>
+        <li><a href="/">Contact</a></li>
+      </ul>
+    </details>
+    <details open>
+      <summary>Basic Accessibility Tips</summary>
+      <ul>
+        {% for page in collections.basic %}
+        <li>
+          <a href="{{ page.url }}">{{ page.data.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+    <details open>
+      <summary>Advanced Accessibility Tips</summary>
+      <ul>
+        {% for page in collections.advanced %}
+        <li>
+          <a href="{{ page.url }}">{{ page.data.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </details>
+    <button>Donate</button>
+  </div>
+</aside>
