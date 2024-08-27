@@ -13,8 +13,5 @@ function adjustHeight() {
   }
 }
 
-window.addEventListener("resize", adjustHeight);
+// window.addEventListener("resize", adjustHeight);
 adjustHeight();
-// basicDetails.addEventListener("click", () => {
-//   console.log("click");
-// });
