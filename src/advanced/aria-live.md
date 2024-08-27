@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "aria-live"
-description: "Page on focus-outline"
+description: "Coming soon."
 ---
 
-Some focus-outline writing.
+Coming soon.

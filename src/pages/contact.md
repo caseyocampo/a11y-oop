@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "Contact"
-description: "Page on alt text"
+description: "Coming soon."
 ---
 
-Some alt text writing.
+Coming soon.

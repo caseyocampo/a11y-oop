@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "Error handling"
-description: "Page on Images and Icons"
+description: "Coming soon."
 ---
 
-Some Images and Icons writing.
+Coming soon.

@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "aria-label"
-description: "Page on aria-label"
+description: "Coming soon."
 ---
 
-Some aria-label writing.
+Coming soon.

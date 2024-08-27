@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "Semantic HTML"
-description: "Page on semantic html"
+description: "Coming soon."
 ---
 
-Some semantic HTML writing.
+Coming soon.

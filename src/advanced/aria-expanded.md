@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "aria-expanded"
-description: "Page on color-contrast-text"
+description: "Coming soon."
 ---
 
-Some color-contrast-text writing.
+Coming soon.

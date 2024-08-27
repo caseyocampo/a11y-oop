@@ -1,7 +1,7 @@
 ---
 layout: page.html
 title: "Redundant links"
-description: "Page on hiding elements"
+description: "Coming soon."
 ---
 
-Some hiding elements writing.
+Coming soon.
