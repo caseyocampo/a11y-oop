@@ -3,3 +3,7 @@ _site/
 .DS_Store
 node_modules/
 package-lock.json
+
+# My stuff
+.env
+notes.md
