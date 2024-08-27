@@ -4,7 +4,7 @@ title: "About A11yoop"
 description: "Page on alt text"
 ---
 
-**A11yoop** is a project created by [Casey Ocampo](https://www.linkedin.com/in/caseyocampo/), an Accessibility Engineer who is committed to making this website a web accessibility resource for developers.
+**A11yoop** (pronounced "a · lee · oop" - like the basketball term) is a project created by [Casey Ocampo](https://www.linkedin.com/in/caseyocampo/), an Accessibility Engineer who is committed to making this website a web accessibility resource for developers.
 
 Web accessibility can be a tricky topic to approach. Most web development tutorials overlook accessibility. Often, the basics of accessibility like alt text or color contrast are left out. More "advanced" topics like aria attributes are virtually never mentioned unless it's an accessibility specific tutorial. This leaves developer the questions of "where to even start learning of accessibility?".
 
