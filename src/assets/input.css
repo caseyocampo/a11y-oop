@@ -107,3 +107,9 @@ img {
 .scroll {
   scrollbar-color: #333 #eee;
 }
+
+@media (max-width: 1100px) {
+  aside {
+    max-height: 100%;
+  }
+}
