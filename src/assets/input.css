@@ -34,7 +34,7 @@ blockquote {
 }
 
 a {
-  @apply underline;
+  @apply underline text-blue-800 hover:text-blue-700;
 }
 
 header {
