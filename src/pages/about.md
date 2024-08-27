@@ -6,9 +6,9 @@ description: "Page on alt text"
 
 **A11y-oop** (pronounced "a · lee · oop" - like the basketball term) is a project created by [Casey Ocampo](https://www.linkedin.com/in/caseyocampo/), an Accessibility Engineer who is committed to making this website a web accessibility resource for developers.
 
-<blockquote><b>Fun fact:</b> the name "A11y-oop" is a play on words <i>and</i> acronyms. A11y is a acronym that means accessibility because there are 11 characters between the "a" and the "y". The way "oop" part is there because visually it looks like the basketball term "alley-oop", which is when a player assists another player for an easy shot at the basketball hoop.
+<blockquote><b>Fun fact:</b> the name "A11y-oop" is a play on words <i>and</i> the a11y acronym. A11y is a acronym that means accessibility because there are 11 characters between the "a" and the "y". The way "oop" part is there because visually it looks like the basketball term "alley-oop", which is when a player assists another player for an easy shot at the basketball hoop.
 
-From Wikipedia: "An alley-oop in basketball is an offensive play in which one player passes the ball near the basket to a teammate who jumps, catches the ball in mid-air and dunks or lays it in before touching the ground.
+<b>From Wikipedia:</b> "An alley-oop in basketball is an offensive play in which one player passes the ball near the basket to a teammate who jumps, catches the ball in mid-air and dunks or lays it in before touching the ground.
 
 The alley-oop combines elements of teamwork, pinpoint passing, timing and finishing."</blockquote>
 
