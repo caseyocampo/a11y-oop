@@ -118,6 +118,10 @@ blockquote {
   text-wrap: pretty;
 }
 
+.donation-button {
+  @apply rounded-md border border-blue-900 bg-blue-800 text-blue-50 py-4 px-8 my-4 text-center font-bold hover:bg-blue-700 hover:text-blue-50;
+}
+
 @media (max-width: 1100px) {
   aside {
     max-height: 100%;
