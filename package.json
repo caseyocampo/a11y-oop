@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-tailwindcss-starter",
+  "name": "a11y-oop",
   "version": "1.0.0",
-  "description": "Eleventy starter with Tailwind CSS",
+  "description": "Serving up accessibility tips written in plain English",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

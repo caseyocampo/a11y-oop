@@ -28,7 +28,8 @@ p,
 li,
 a,
 span,
-summary {
+summary,
+blockquote {
   @apply text-lg my-4;
 }
 
@@ -102,6 +103,10 @@ footer a {
 img {
   display: block;
   margin: 1em 0;
+}
+
+blockquote {
+  @apply border border-stone-400 p-2 rounded-md;
 }
 
 .scroll {
