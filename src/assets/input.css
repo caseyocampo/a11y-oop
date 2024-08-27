@@ -113,6 +113,11 @@ blockquote {
   scrollbar-color: #333 #eee;
 }
 
+.tagline {
+  text-wrap: balance;
+  text-wrap: pretty;
+}
+
 @media (max-width: 1100px) {
   aside {
     max-height: 100%;
