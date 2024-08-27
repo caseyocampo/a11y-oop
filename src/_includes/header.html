@@ -1,15 +1,30 @@
-<header class="flex flex-col items-start med:items-center med:flex-row">
-  <a
-    href="#main"
-    class="skip-link bg-stone-900 text-stone-100 py-3 px-8 outline-offset-2 absolute inline-block opacity-0 -z-10 top-2 w-1/2 sm:py-4 sm:px-12 med:-top-2 focus:opacity-100 focus:z-10"
-    >Skip to main content</a
-  >
-  <p class="my-0">
-    <a
-      href="/"
-      class="text-3xl text-black font-black mr-4 no-underline hover:text-black"
-      >{{ PROJECT_NAME }}</a
-    >
-  </p>
-  <p class="my-0">Serving up accessibility tips written in plain English</p>
-</header>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="{% if description %}{{ description }}{% else %}Ally-oop{% endif %}"
+    />
+    <title>A11y-oop | Accessibility tips written in plain English</title>
+    <link href="/assets/output.css" rel="stylesheet" />
+  </head>
+  <body>
+    <header class="flex flex-col items-start med:items-center med:flex-row">
+      <a
+        href="#main"
+        class="skip-link bg-stone-900 text-stone-100 py-3 px-8 outline-offset-2 absolute inline-block opacity-0 -z-10 top-2 w-1/2 sm:py-4 sm:px-12 med:-top-2 focus:opacity-100 focus:z-10"
+        >Skip to main content</a
+      >
+      <p class="my-0">
+        <a
+          href="/"
+          class="text-3xl text-black font-black mr-4 no-underline hover:text-black"
+          >{{ PROJECT_NAME }}</a
+        >
+      </p>
+      <p class="my-0">Serving up accessibility tips written in plain English</p>
+    </header>
+  </body>
+</html>
