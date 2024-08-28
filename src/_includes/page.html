@@ -1,14 +1,12 @@
-    {% include "header.html"%}
+{% include "header.html"%}
 
-    <div class="flex flex-col med:grid med:grid-cols-4">
-      {% include "sidebar.html" %}
+<div class="flex flex-col med:grid med:grid-cols-4">
+  {% include "sidebar.html" %}
 
-      <main class="col-span-3" id="main">
-        <h1>{{ title }}</h1>
+  <main class="col-span-3" id="main">
+    <h1>{{ title }}</h1>
 
-        {{ content }}
-      </main>
-    </div>
-    {% include "footer.html" %}
-  </body>
-</html>
+    {{ content }}
+  </main>
+</div>
+{% include "footer.html" %}
